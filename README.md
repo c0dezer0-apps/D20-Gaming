@@ -1,0 +1,96 @@
+# D20-Gaming
+A home for text-based roleplaying. 
+
+## What will I be able to do?
+- As D20 Staff:
+  - Enforce global rules.
+  - Decide the fate of games.
+  - Help develop the app (if a developer).
+  - Help advertise the app.
+  - Throw pizza parties.
+  - Live in a luxurious home this is entirely a figment of my imagination.
+- As a Game Master:
+  - Create immersive universes/worlds where players can play as a character they create in the story that you write.
+    - D20 will support freeform and DnD style gameplay with dice.
+    - D20 will support either custom worlds/universes or allow you to create worlds from other universes like Star Trek, Stargate, etc.
+  - Create world templates to allow other GMs to use to create their own games based within your universe (if it is a custom universe you built or have exclusive rights to).
+  - Choose D20 provided templates for existing universes (like Star Trek, DnD, Warcraft, etc).
+    - Can modify and distribute these templates.
+  - Create plots, storylines, and environments your playerbase can interact with.
+  - Create characters that can be either NPC's or taken over to be played as a character.
+  - Manage characters, npc or pc, and their content.
+  - Manage the world you create.
+  - Play as your own character in your own world.
+  - Assign mod powers to other users, with your own set of rules.
+    - Can set approval of mod actions to auto, require review, or deny.
+    - Will allow you as a Game Master to dictate how a mod can help create the world you want.
+  - Set your own social guidelines and rules (that don't contradict those set forth by the D20 Staff, i.e. me).
+  - Create organizations that consist of like-themed games, either in their own universes or in the same universe.
+  - In a DnD style game, decide the outcome of dice rolls.
+    - Can pre-determine responses to dice-rolls for certain actions.
+    - Can pre-script actions that your players are allowed to take in choice format to facilitate this.
+  - Manage game chat.
+  - Open/close game to new applicants.
+  - Archive/close games when interest dies.
+  - Create one-time direct recruitment links to allow players to sign-up irregardless of open status.
+- As a Game Mod:
+  - Manage player content following the rules the Game Master permits.
+  - Help create the world the GM envisions.
+  - Enforce social rules, local and global.
+- As a player:
+  - Create various characters.
+    - Create variations of characters for the purpose of using in multiple games.
+  - Join as many games as you can handle, and use your characters in as many worlds as you want.
+  - Write plot-based actions and responses.
+  - Write personal stories based in the game world (like flashbacks or other stuff that doesn't relate or effect on-going plots).
+  - Write joint actions and responses with other players in a live setting (will behave like a chat).
+  - In a Dnd-style game, roll dice for various actions to decide their outcome.
+  - Create your own plot ideas and suggestions to be reviewed by game staff.
+  - Create your own NPCs and put them in games at staff discretion.
+  - Invite friends to join your game, if ability is permitted by GM.
+- As an observer:
+  - Watch game events as they unfold.
+  - Chat in an OOC (out-of-character) channel with the players if allowed by game staff.
+  - Chat in a 'welcome/recruitment' chat created for visitors, which is enabled/disabled depending if game is open to recruitment.
+    - Intended to be a QnA-type chat for prospective players.
+
+### MVP Goals
+- [ ] Welcome page page (in progress)
+- [ ] User registration page
+- [ ] World registration page
+- [ ] Basic User profile
+- [ ] Class generation (in progress)
+  - [ ] Base character class (in progress)
+    - [x] Validations for forms.
+    - [ ] Base methods
+  - [ ] Base user class (in progress)
+    - [x] Validations for forms
+    - [ ] Base methods (in progress)
+  - [ ] Plot class (file created)
+    - [ ] Validations for forms
+    - [ ] Methods
+  - [ ] Subplot class
+  - [ ] Event class (file created)
+- [ ] Basic Game Master/Mod admin panel.
+  - [ ] Basic Game management subpanel.
+    - [ ] Basic User manage subpanel.
+- [ ] World pages
+  - [ ] Index
+  - [ ] Timeline
+  - [ ] Plots
+    - [ ] Current
+    - [ ] Previous
+    - [ ] Upcoming
+  - [ ] Events
+    - [ ] Current
+    - [ ] Previous
+    - [ ] Upcoming
+  - [ ] Roster
+  - [ ] Action/response form
+  - [ ] Action/response view
+  - [ ] Basic World Wiki page
+  - [ ] Dice Utility (for freeform dice rolling)
+- [ ] Routing
+- [ ] D20 staff admin panel
+- [ ] Database
+    
