@@ -372,3 +372,8 @@ FodyWeavers.xsd
 .gradle/
 .idea/
 local.properties
+
+/Pages/Counter.razor
+/Pages/FetchData.razor
+/Data/WeatherForecast.cs
+/Data/WeatherForecastService.cs
