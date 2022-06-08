@@ -93,4 +93,16 @@ A home for text-based roleplaying.
 - [ ] Routing
 - [ ] D20 staff admin panel
 - [ ] Database
-    
+---
+## Contributing
+- Requirements:
+  - Visual Studio 2022 Preview
+    - .NET desktop development workload
+      - .NET MAUI (and the requirements for)
+  - Coffee and Donuts or pure fuel.
+- Setup SSH.
+- Clone project, beyond the above requirements you don't need to do anything special.
+  - Signup for the @c0dezer0-apps/d20 team for write access.
+  - If you want to be a maintainer, apply for the @c0dezer0-apps/maintainers team
+- Submit an issue describing what you're working on in detail. 
+- Create a development branch from the issue (can be done by the panel on the right).
