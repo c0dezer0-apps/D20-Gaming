@@ -95,11 +95,11 @@ A home for text-based roleplaying.
 - [ ] Database
 ---
 ## Contributing
-- Requirements:
-  - Visual Studio 2022 Preview
+- Required tools:
+  - [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
     - .NET desktop development workload
       - .NET MAUI (and the requirements for)
-  - Coffee and Donuts or pure fuel.
+  - Coffee and donuts or pure fuel.
 - Setup SSH.
 - Clone project, beyond the above requirements you don't need to do anything special.
   - Signup for the @c0dezer0-apps/d20 team for write access.
